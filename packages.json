@@ -2,5 +2,9 @@
     {
         "package": "opusreader2",
 	"url": "https://github.com/spectral-cockpit/opusreader2"
+    },
+    {
+        "package": "specprepper",
+	"url": "https://github.com/spectral-cockpit/specprepper"
     }
 ]
